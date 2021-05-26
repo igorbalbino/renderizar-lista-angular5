@@ -1,0 +1,18 @@
+{
+    "cars": [{
+        "brands": {
+            "volvo": [{
+                "models": ["XC60", "XC90"],
+                "colors": ["azul", "preto", "verde"]
+            }],
+            "nissan": [{
+                "models": ["kicks", "versa"],
+                "colors": ["azul", "preto", "ciano"]
+            }],
+            "fiat": [{
+                "models": ["uno", "punto"],
+                "colors": ["amarelo", "preto", "verde"]
+            }]
+        }
+    }]
+}
